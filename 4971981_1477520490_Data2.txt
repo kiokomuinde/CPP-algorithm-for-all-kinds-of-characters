@@ -1,0 +1,22 @@
+123,Frodo inc,2006, lyons,"21,000.16",0.0,
+U2123,Sam Inc,2006, lyons,"21,600.00",13.10,123
+A721,Merry Inc,2604, Kingston,"21,600.10",103.00,
+U2122,Pippin Inc,2612, reid,"21,600.00",0
+U1123,Huckelberry Incorporated,2612, Turner,"21,600.00",13.10,
+U3123,Gandalf Inc,2006, lyons,"69,600.01",00.00,123,A721,U2123,U2122,U2q,U211193
+U211193,Aragorn Inc,2615,Flynn,"1,821,600.00",13.10
+U2q,Boromir Inc,1004, Sydney,"72,111.09","1,13.10",
+U2,"Bono of, U2",1460, Mascot,"1,982,12,73","873,213.00",U2122
+Alice1,Alice Cooper,1675,Gladesvile,"8,123,189","3,000,000.3",U2
+M00ney,Keith Moon,3020,Sunshine Wembley,26000.12,1024,A721
+F001,Gimli,3018,Altona,"8,096.00","256",F002
+F002,Legolas,6231,Bunbury,"1,096.00","0,000.00",F001
+rckstr1,Sabaton,5278,Wepar,"9,999,999.99",0.0,U2q,U2,M00ney
+A723,Finn corporation,2604, Kingston,"600.10",103.00,
+A724,Merry Brothers,2604, Kingston,"1,600.10",713.00,Alice1
+J7251,Juice Inc,2604, Kingston,"11,600.10",0.00,ZZTOP
+A726,Lepton Inc,2006, Kingston,"91,600.10",0.00,
+A1116,proton Inc,1004, Sydney,"71,600.10",61103.00,
+U8211193,Arragog Spider Incorporate,2615,Flynn,"600.00",0
+U711193,Voldemort,2615,Flynn,"9,811,600.00",913.10
+Boris1,Boris,2612,Russian Embassy Reid,146000.14,121024,U1123,U2q
